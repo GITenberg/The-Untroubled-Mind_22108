@@ -1,0 +1,27 @@
+_repo: The-Untroubled-Mind_22108
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hall, Herbert J. (Herbert James)
+    birthdate: 1870
+    deathdate: 1923
+    gutenberg_agent_id: '25115'
+    url: http://www.gutenberg.org/2009/agents/25115
+description: ''
+gutenberg_bookshelf: Psychology
+gutenberg_issued: '2007-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22108'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RA'
+- !lcsh 'Mental health'
+title: The Untroubled Mind
+url: http://www.gutenberg.org/ebooks/22108
