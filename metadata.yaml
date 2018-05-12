@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25115'
     url: http://www.gutenberg.org/2009/agents/25115
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22108#The-Untroubled-Mind
 gutenberg_bookshelf: Psychology
 gutenberg_issued: '2007-07-19'
 gutenberg_type: Text
